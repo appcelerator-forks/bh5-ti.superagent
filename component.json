@@ -1,0 +1,21 @@
+{
+  "name": "superagent",
+  "repository": "tipm/superagent",
+  "description": "Superagent Better XHR for Titanium.",
+  "version": "0.1.1",
+  "keywords": [],
+  "dependencies": {
+    "visionmedia/superagent": "*",
+    "tipm/xhrpoly": "*"
+  },
+  "development": {},
+  "platform": [
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
