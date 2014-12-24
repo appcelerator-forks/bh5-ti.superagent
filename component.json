@@ -1,12 +1,12 @@
 {
   "name": "superagent",
-  "repository": "tipm/superagent",
+  "repository": "bh5-ti/superagent",
   "description": "Superagent Better XHR for Titanium.",
   "version": "0.1.1",
   "keywords": [],
   "dependencies": {
     "visionmedia/superagent": "*",
-    "tipm/xhrpoly": "*"
+    "bh5-ti/xhrpoly": "*"
   },
   "development": {},
   "platform": [
